@@ -1,5 +1,4 @@
-# sushi
-Introduction
+# Sushi
 A modern, fully responsive HTML & CSS website with animations.
 
 In this course, I learn how to:
