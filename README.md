@@ -1,5 +1,7 @@
 # Sushi Haven
 
+[Live Demo](https://sushi-haven.vercel.app/)
+
 ## Introduction
 
 Welcome to Sushie Haven, a modern, fully responsive HTML & CSS website with stunning animations! This project showcases the artistry of sushi and combines it with web design excellence.
