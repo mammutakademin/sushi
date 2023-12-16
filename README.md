@@ -1,4 +1,4 @@
-# Sushi
+# Sushi Haven
 
 ## Introduction
 
